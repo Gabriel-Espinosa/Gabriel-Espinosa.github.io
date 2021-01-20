@@ -342,9 +342,11 @@ input[type="text"], input[type="email"], input[type="number"], textarea{
   background-color: #f0f5f9;
   border: 0.5px solid #1e2022;
   color: #1e2022;
+  border-radius: 5px;
 }
 input{
   border: 1px solid #1e2022; 
+  border-radius: 5px;
 }
 
 .datos{
