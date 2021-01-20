@@ -113,7 +113,7 @@ nav{
     text-align: center;
     position: relative;
     padding-top: 10px;
-    background-image: url(imagen-de-fondo.jpg);
+    background-image: url(background-image.jpg);
     background-repeat: no-repeat !important;
     background-size: 100% 100%;
 }
